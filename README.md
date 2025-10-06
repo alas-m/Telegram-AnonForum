@@ -50,10 +50,10 @@ A powerful anonymous forum bot for Telegram that allows users to create and join
 |---------|-------------|---------|
 | /start | Start the bot | /start |
 | /help | Show help menu | /help |
-| /createchat |	Create new chat |	/createchat My Secret Group |
-| /chatinfo |	Get chat information | /chatinfo ABC123DEF |
-| /setname | Change display name |	/setname CyberGhost |
-| /leave | Leave current chat |	/leave |
+| /createchat | Create new chat | /createchat My Secret Group |
+| /chatinfo | Get chat information | /chatinfo ABC123DEF |
+| /setname | Change display name | /setname CyberGhost |
+| /leave | Leave current chat | /leave |
 ```
 
 # 🏗️ Project Structure
