@@ -26,20 +26,25 @@ A powerful anonymous forum bot for Telegram that allows users to create and join
 ### 📥 Installation
 
 1. **Clone the repository**
+
   ```bash
   git clone https://github.com/alas-m/Telegram-AnonForum.git
   cd Telegram-AnonForum
   ```
 
 2. **Install dependencies**
+
    ```pip install aiogram sqlite3```
    
 3. **Configure your bot**
+
    ```bash
    # config.py
     API = "YOUR_BOT_TOKEN_HERE"
    ```
+   
 4. **Run the bot**
+
    `python main.py `
 
 # 💻 Usage
