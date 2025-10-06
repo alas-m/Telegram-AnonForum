@@ -63,6 +63,7 @@ A powerful anonymous forum bot for Telegram that allows users to create and join
 ```
 anonforum-bot/
 ├── 🤖 main.py              # Main bot application
+├── 👤 functions.py         # Bot SQLite functions 
 ├── ⚙️ config.py            # Bot configuration
 ├── 💾 database.db          # SQLite database
 └── 💾 forum.db             # SQLite database
