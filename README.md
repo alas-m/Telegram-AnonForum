@@ -92,7 +92,7 @@ anonforum-bot/
 # 🔧 Technical Details
   
 ## 🛠️ Built With
-- `aiogram` - Async Telegram Bot API
+- `aiogram==2.25.1` - Async Telegram Bot API
 - `SQLite3` - Lightweight database
 - `Python 3.7+` - Core programming language
 
