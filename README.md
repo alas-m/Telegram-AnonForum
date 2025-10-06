@@ -45,7 +45,6 @@ A powerful anonymous forum bot for Telegram that allows users to create and join
 # 💻 Usage
 ## 🎯 Basic Commands
 
-```bash
 | Command | Description | Example |
 |---------|-------------|---------|
 | /start | Start the bot | /start |
@@ -54,7 +53,6 @@ A powerful anonymous forum bot for Telegram that allows users to create and join
 | /chatinfo | Get chat information | /chatinfo ABC123DEF |
 | /setname | Change display name | /setname CyberGhost |
 | /leave | Leave current chat | /leave |
-```
 
 # 🏗️ Project Structure
 ```
