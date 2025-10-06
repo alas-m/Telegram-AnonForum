@@ -34,12 +34,12 @@ A powerful anonymous forum bot for Telegram that allows users to create and join
 2. **Install dependencies**
    ```pip install aiogram sqlite3```
    
-4. **Configure your bot**
+3. **Configure your bot**
    ```bash
    # config.py
     API = "YOUR_BOT_TOKEN_HERE"
    ```
-5. **Run the bot**
+4. **Run the bot**
    `python main.py `
 
 # 💻 Usage
